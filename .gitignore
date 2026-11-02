@@ -1,0 +1,5 @@
+.cursor/
+*.tmp
+scripts/_neccina-*
+Thumbs.db
+Desktop.ini

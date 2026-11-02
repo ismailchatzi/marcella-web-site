@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Görselli Menü Önizleme | Marcella Coffee</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .preview-banner {
+      background: #3d2b1f;
+      color: #f0ebe3;
+      text-align: center;
+      padding: 0.75rem 1rem;
+      font-size: 0.8rem;
+      letter-spacing: 0.05em;
+      line-height: 1.5;
+    }
+    .header { background-color: rgba(15, 15, 15, 0.95); }
+  </style>
+</head>
+<body>
+
+  <p class="preview-banner">
+    Görselli menü önizlemesi — bir fotoğrafa dokunun, büyüsün. QR menüde müşterileriniz de aynı şekilde kullanacak.
+  </p>
+
+  <header class="header scrolled" id="header">
+    <nav class="nav container">
+      <a href="index.html" class="nav__logo">Marcella<span>Coffee</span></a>
+      <ul class="nav__menu" id="nav-menu" style="display:flex;">
+        <li><a href="index.html" class="nav__link">Ana Sayfa</a></li>
+        <li><a href="menu.html" class="nav__link active">Menü</a></li>
+        <li><a href="index.html#hakkimizda" class="nav__link">Hakkımızda</a></li>
+        <li><a href="index.html#iletisim" class="nav__link">İletişim</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <div class="container">
+        <span class="section-label">Menü</span>
+        <h1 class="page-hero__title">Lezzetlerimiz</h1>
+        <p class="page-hero__subtitle">Özenle hazırlanan kahve ve içeceklerimiz</p>
+      </div>
+    </section>
+
+    <section class="menu-section">
+      <div class="container">
+
+        <article class="menu-category">
+          <h2 class="menu-category__title">Sıcak Kahveler</h2>
+          <ul class="menu-list">
+            <li class="menu-item">
+              <button type="button" class="menu-item__photo" aria-label="Espresso fotoğrafını büyüt">
+                <img src="https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?w=200&h=200&fit=crop" alt="Espresso" loading="lazy">
+              </button>
+              <div class="menu-item__body">
+                <div class="menu-item__info">
+                  <span class="menu-item__name">Espresso</span>
+                  <span class="menu-item__desc">Klasik İtalyan espresso</span>
+                </div>
+                <span class="menu-item__price">90 ₺</span>
+              </div>
+            </li>
+            <li class="menu-item">
+              <button type="button" class="menu-item__photo" aria-label="Latte fotoğrafını büyüt">
+                <img src="https://images.unsplash.com/photo-1551030173-122aabc4489c?w=200&h=200&fit=crop" alt="Latte" loading="lazy">
+              </button>
+              <div class="menu-item__body">
+                <div class="menu-item__info">
+                  <span class="menu-item__name">Latte</span>
+                  <span class="menu-item__desc">Espresso + buharlı süt</span>
+                </div>
+                <span class="menu-item__price">130 ₺</span>
+              </div>
+            </li>
+            <li class="menu-item">
+              <button type="button" class="menu-item__photo" aria-label="Cappuccino fotoğrafını büyüt">
+                <img src="https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=200&h=200&fit=crop" alt="Cappuccino" loading="lazy">
+              </button>
+              <div class="menu-item__body">
+                <div class="menu-item__info">
+                  <span class="menu-item__name">Cappuccino</span>
+                  <span class="menu-item__desc">Espresso + süt köpüğü</span>
+                </div>
+                <span class="menu-item__price">130 ₺</span>
+              </div>
+            </li>
+          </ul>
+        </article>
+
+        <article class="menu-category">
+          <h2 class="menu-category__title">Soğuk İçecekler</h2>
+          <ul class="menu-list">
+            <li class="menu-item">
+              <button type="button" class="menu-item__photo" aria-label="Ice Latte fotoğrafını büyüt">
+                <img src="https://images.unsplash.com/photo-1517701603779-8fec422a2436?w=200&h=200&fit=crop" alt="Ice Latte" loading="lazy">
+              </button>
+              <div class="menu-item__body">
+                <div class="menu-item__info">
+                  <span class="menu-item__name">Ice Latte</span>
+                  <span class="menu-item__desc">Buzlu latte</span>
+                </div>
+                <span class="menu-item__price">140 ₺</span>
+              </div>
+            </li>
+          </ul>
+        </article>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <p class="footer__logo">Marcella<span>Coffee</span></p>
+      <p class="footer__copy">&copy; 2026 Marcella Coffee.</p>
+      <a href="https://instagram.com/marcellacoffee" target="_blank" rel="noopener" class="footer__social">Instagram</a>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

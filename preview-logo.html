@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marcella Coffee — Logo Önizleme</title>
+  <link href="https://fonts.cdnfonts.com/css/corleone" rel="stylesheet">
+  <link href="https://fonts.cdnfonts.com/css/the-godfather" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      min-height: 100vh;
+      background: #111;
+      color: #f0ebe3;
+      font-family: system-ui, sans-serif;
+    }
+
+    .note {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.85rem;
+      color: rgba(240, 235, 227, 0.5);
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .preview-block {
+      min-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 3rem 1.5rem;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Site giriş ekranıyla aynı arka plan */
+    .preview-block--hero {
+      background-color: #0f0f0f;
+      background-image:
+        radial-gradient(ellipse at 20% 80%, rgba(139, 111, 71, 0.25) 0%, transparent 50%),
+        radial-gradient(ellipse at 80% 20%, rgba(92, 64, 51, 0.2) 0%, transparent 50%),
+        linear-gradient(160deg, #0f0f0f 0%, #1a1a1a 50%, #3d2b1f 100%);
+    }
+
+    .preview-block--poster {
+      background: #000;
+      border-top: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .label {
+      font-size: 0.7rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #a67c52;
+      margin-bottom: 2rem;
+    }
+
+    /* Seçenek 1: Corleone — Baba afişine en yakın */
+    .logo-corleone {
+      text-align: center;
+      line-height: 0.95;
+    }
+
+    .logo-corleone .line-main {
+      font-family: 'Corleone', serif;
+      font-size: clamp(3.5rem, 14vw, 8.5rem);
+      font-weight: 400;
+      color: #f0ebe3;
+      letter-spacing: 0.02em;
+      text-shadow: 0 2px 40px rgba(0,0,0,0.5);
+    }
+
+    .logo-corleone .letter-m {
+      font-family: 'Corleone Due', serif;
+    }
+
+    .logo-corleone .line-sub {
+      font-family: 'Corleone Due', serif;
+      font-size: clamp(2rem, 8vw, 5rem);
+      font-weight: 400;
+      color: #e0d5c5;
+      letter-spacing: 0.08em;
+      margin-top: 0.15em;
+    }
+
+    /* Seçenek 2: The Godfather font */
+    .logo-godfather {
+      font-family: 'The Godfather', serif;
+      font-size: clamp(2.8rem, 11vw, 7rem);
+      text-align: center;
+      color: #f0ebe3;
+      line-height: 1.1;
+      letter-spacing: 0.03em;
+    }
+
+    /* Baba afişi tarzı — tek satır büyük */
+    .logo-poster {
+      text-align: center;
+    }
+
+    .logo-poster .title {
+      font-family: 'Corleone', serif;
+      font-size: clamp(4rem, 16vw, 9rem);
+      color: #fff;
+      line-height: 0.9;
+      letter-spacing: -0.01em;
+    }
+
+    .logo-poster .letter-m {
+      font-family: 'Corleone Due', serif;
+    }
+
+    .logo-poster .subtitle-small {
+      font-family: 'Corleone Due', serif;
+      font-size: clamp(1.8rem, 6vw, 3.5rem);
+      color: #ccc;
+      margin-top: 0.5rem;
+      letter-spacing: 0.15em;
+    }
+
+    .compare {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+      width: 100%;
+      max-width: 900px;
+      margin-top: 1rem;
+    }
+
+    .compare-item {
+      text-align: center;
+      padding: 2rem 1rem;
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 4px;
+    }
+
+    .compare-item span {
+      display: block;
+      font-size: 0.65rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(240,235,227,0.4);
+      margin-bottom: 1.5rem;
+    }
+
+    .old-style {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: clamp(2rem, 6vw, 3.5rem);
+      font-weight: 600;
+      color: #f0ebe3;
+    }
+
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&display=swap');
+
+    @media (max-width: 600px) {
+      .compare { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <p class="note">
+    Bu sadece önizleme dosyasıdır — ana siteye henüz dokunulmadı.
+    Beğendiğiniz stili söyleyin, giriş ekranına uygularız.
+  </p>
+
+  <!-- Önerilen: Site giriş ekranı üzerinde -->
+  <section class="preview-block preview-block--hero">
+    <span class="label">Önerilen — Giriş ekranında böyle görünür</span>
+
+    <div class="logo-corleone">
+      <div class="line-main"><span class="letter-m">M</span>arcella</div>
+      <div class="line-sub">Coffee</div>
+    </div>
+  </section>
+
+  <!-- Baba afişi tarzı siyah zemin -->
+  <section class="preview-block preview-block--poster">
+    <span class="label">Baba film afişi tarzı</span>
+
+    <div class="logo-poster">
+      <div class="title"><span class="letter-m">M</span>arcella</div>
+      <div class="subtitle-small">Coffee</div>
+    </div>
+  </section>
+
+  <!-- Karşılaştırma -->
+  <section class="preview-block preview-block--hero" style="min-height: auto; padding: 4rem 1.5rem;">
+    <span class="label">Eski stil vs Yeni stil</span>
+    <div class="compare">
+      <div class="compare-item">
+        <span>Şu anki</span>
+        <p class="old-style">Marcella Coffee</p>
+      </div>
+      <div class="compare-item">
+        <span>Yeni (Corleone)</span>
+        <div class="logo-corleone">
+          <div class="line-main" style="font-size: clamp(2rem, 8vw, 3.5rem);"><span class="letter-m">M</span>arcella</div>
+          <div class="line-sub" style="font-size: clamp(1.2rem, 5vw, 2rem);">Coffee</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>

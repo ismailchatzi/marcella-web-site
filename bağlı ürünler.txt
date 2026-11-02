@@ -1,0 +1,288 @@
+Güncel stok bağlantı raporu:
+
+MARCELLA ÖZEL
+Ürün	Stok
+Original Greek Frappe
+5 gr Frappe Kahvesi + 8 ml Süt + 95 gr Vanilya Dondurma
+Freddo Cappuccino
+18 gr Espresso Kahve + 160 ml Süt
+Freddo Espresso
+18 gr Espresso Kahve
+Marcella Soğuk Çikolata
+60 gr Çikolata Tozu + 85 gr Muzlu Dondurma + 195 ml Süt
+PİZZALAR
+Ürün	Stok
+Pizza Margherita
+110 gr Mozzarella
+Pizza Manzo Dorato
+60 gr Mozzarella + 60 gr Füme Et
+TATLILAR
+Ürün	Stok
+Çilekli Magnolia
+yok
+Muzlu Magnolia
+yok
+Lotus Magnolia
+yok
+Beyaz Çikolatalı Brownie
+12 ml Beyaz Çikolata Sos
+San Sebastian Cheesecake
+ekstra çikolata seçilirse: 95 gr Sütlü Çikolata Sos
+Çikolatalı Cup
+yok
+Latte Cup
+yok
+Spoonful
+yok
+Tiramisu
+yok
+Pastacı Kremalı Cream Puff
+yok
+KRUVASANLAR
+Ürün	Stok
+Çikolatalı Kruvasan
+0.5 adet Muz + 1 adet Çilek + 50 gr Nutella + 50 gr Sütlü Çikolata Sos + 7 gr Fındık
+Lotus Kruvasan
+50 gr Lotus + 50 gr Lotus Topping + 5 gr Lotus Kırıntı + 4 gr Badem
+Antep Fıstıklı Kruvasan
+80 gr Keçi Sütlü Dondurma + 7 gr Antep Fıstık Tozu + 40 gr Antep Fıstık Ezmesi + 35 gr Antep Fıstık Sos
+SICAK KAHVELER
+Ürün	Stok
+Filtre Kahve
+16 gr Filtre Kahve
+Sütlü Filtre Kahve
+16 gr Filtre Kahve + 110 ml Süt
+Red Eye Coffee
+16 gr Filtre Kahve + 9 gr Espresso Kahve
+Black Eye Coffee
+16 gr Filtre Kahve + 18 gr Espresso Kahve
+Türk Kahvesi
+8 gr Türk Kahvesi
+Double Türk Kahvesi
+16 gr Türk Kahvesi
+Damla Sakızlı Türk Kahvesi
+8 gr Türk Kahvesi + 3 gr Damla Sakızı
+Double Damla S. Türk Kahvesi
+16 gr Türk Kahvesi + 6 gr Damla Sakızı
+Espresso
+9 gr Espresso Kahve
+Double Espresso
+18 gr Espresso Kahve
+Espresso Macchiato
+9 gr Espresso Kahve + 50 ml Süt
+Americano
+18 gr Espresso Kahve
+Latte
+9 gr Espresso Kahve + 225 ml Süt
+Cappuccino
+9 gr Espresso Kahve + 205 ml Süt
+Flat White
+18 gr Espresso Kahve + 245 ml Süt
+Cortado
+18 gr Espresso Kahve + 110 ml Süt
+Mocha
+9 gr Espresso Kahve + 225 ml Süt + 28 ml Çikolata Bar Sos
+White Mocha
+9 gr Espresso Kahve + 225 ml Süt + 28 ml Beyaz Çikolata Sos
+Vanilya Latte
+9 gr Espresso Kahve + 225 ml Süt + 26 ml Vanilya Şurup
+Karamel Latte
+9 gr Espresso Kahve + 225 ml Süt + 26 ml Karamel Şurup
+Salted Caramel Mocha
+9 gr Espresso Kahve + 225 ml Süt + 28 ml Salted Caramel Sos
+Fındık Latte
+9 gr Espresso Kahve + 225 ml Süt + 26 ml Fındık Şurup
+Toffeenut Latte
+9 gr Espresso Kahve + 225 ml Süt + 26 ml Toffeenut Şurup
+Coconut Latte
+9 gr Espresso Kahve + 225 ml Süt + 26 ml Coconut Şurup
+Pumpkin Spice Latte
+9 gr Espresso Kahve + 225 ml Süt + 23 ml Pumpkin Şurup
+Honeymoon Latte
+9 gr Espresso Kahve + 220 ml Süt + 25 gr Bal
+Nutella Latte
+9 gr Espresso Kahve + 220 ml Süt + 45 gr Nutella
+Irish Cream Latte
+9 gr Espresso Kahve + 225 ml Süt + 26 ml İrlanda Kreması Şurup
+Lotus Latte
+9 gr Espresso Kahve + 220 ml Süt + 40 gr Lotus
+Pistachio Mocha
+9 gr Espresso Kahve + 220 ml Süt + 20 gr Antep Fıstık Ezmesi + 10 gr Antep Fıstık Sos
+Spanish Latte
+9 gr Espresso Kahve + 220 ml Süt + 42 gr Süt Reçeli
+SOĞUK KAHVELER
+Ürün	Stok
+Ice Americano
+18 gr Espresso Kahve
+Ice Latte
+140 ml Süt + 18 gr Espresso Kahve
+Ice Honeymoon Latte
+18 gr Espresso Kahve + 140 ml Süt + 30 gr Bal
+Ice Vanilya Latte
+18 gr Espresso Kahve + 140 ml Süt + 35 ml Vanilya Şurup
+Ice Karamel Latte
+18 gr Espresso Kahve + 140 ml Süt + 35 ml Karamel Şurup
+Ice Fındık Latte
+18 gr Espresso Kahve + 140 ml Süt + 35 ml Fındık Şurup
+Ice Toffeenut Latte
+18 gr Espresso Kahve + 140 ml Süt + 35 ml Toffeenut Şurup
+Ice Mocha
+18 gr Espresso Kahve + 140 ml Süt + 38 ml Çikolata Bar Sos
+Ice White Mocha
+18 gr Espresso Kahve + 140 ml Süt + 38 ml Beyaz Çikolata Sos
+Ice Nutella Latte
+18 gr Espresso Kahve + 140 ml Süt + 50 gr Nutella
+Ice Lotus Latte
+18 gr Espresso Kahve + 140 ml Süt + 50 gr Lotus
+Ice Pistachio Mocha
+18 gr Espresso Kahve + 140 ml Süt + 30 gr Antep Fıstık Ezmesi + 10 gr Antep Fıstık Sos
+Ice Salted Caramel Mocha
+18 gr Espresso Kahve + 140 ml Süt + 38 ml Salted Caramel Sos
+Ice Coconut Latte
+18 gr Espresso Kahve + 140 ml Süt + 35 ml Coconut Şurup
+Ice Pumpkin Spice Latte
+18 gr Espresso Kahve + 140 ml Süt + 32 ml Pumpkin Şurup
+Ice Irish Cream Latte
+18 gr Espresso Kahve + 140 ml Süt + 35 ml İrlanda Kreması Şurup
+Ice Spanish Latte
+18 gr Espresso Kahve + 140 ml Süt + 57 gr Süt Reçeli
+Ice Filtre Kahve
+16 gr Filtre Kahve
+Ice Sütlü Filtre Kahve
+16 gr Filtre Kahve + 75 ml Süt
+Cold Brew
+10 gr Kolombiya + 5 gr Brezilya
+Affogato
+8 gr Espresso Kahve + 100 gr Vanilya Dondurma
+3. NESİL DEMLEME KAHVELER
+Ürün	Stok
+V60
+çekirdek seçimine göre 15 gr (Etiyopya / Kolombiya / Brezilya)
+V60 Double
+çekirdek seçimine göre 30 gr
+Chemex
+çekirdek seçimine göre 15 gr
+Chemex Double
+çekirdek seçimine göre 30 gr
+SICAK İÇECEKLER
+Ürün	Stok
+Sahlep
+23 gr Salep Tozu + 220 ml Süt
+Damla Sakızlı Sahlep
+23 gr Damla Sakızlı Salep Tozu + 220 ml Süt
+Sıcak Çikolata
+23 gr Çikolata Tozu + 270 ml Süt
+Chai Tea Latte
+30 ml Chai Tea Şurubu + 220 ml Süt
+Sıcak Ballı Süt
+220 ml Süt + 35 gr Bal
+Fincan Çay
+yok
+Çay
+yok
+Bal Badem Sahlep
+23 gr Bal Badem Salep Tozu + 220 ml Süt
+FRESH BAR & FROZEN
+Ürün	Stok
+Taze Sıkma Portakal Suyu
+5 adet Portakal
+Limonata
+390 ml Limonata
+Cool Lime
+25 ml Cool Lime Şurubu + 8 ml Lime Şurubu
+Cool Berry
+35 ml Berry Şurubu + 15 gr Donuk Meyve
+Watermelon Mojito
+35 ml Karpuz Şurubu + 180 ml Sprite
+Kırmızı Kutu
+1 adet Laimon Kırmızı
+Sarı Kutu
+1 adet Laimon Sarı
+Yeşil Kutu
+1 adet Laimon Yeşil
+Pink Acid
+75 ml Ejder Meyve Özü
+Ice Chai Tea Latte
+37 ml Chai Tea Şurubu + 150 ml Süt
+Uranos
+1 adet Elmalı Soda + 7 ml Turunç Şurubu
+Böğürtlen Frozen
+97 ml Böğürtlen Püre
+Yeşil Elma Frozen
+97 ml Yeşil Elma Püre
+Ananas Frozen
+97 ml Ananas Püre
+Mango Frozen
+97 ml Mango Püre
+Çilek Frozen
+97 ml Çilek Püre
+Kavun Frozen
+97 ml Kavun Püre
+Muz Frozen
+97 ml Muz Püre
+MILKSHAKE
+Ürün	Stok
+Çikolatalı Milkshake
+220 ml Süt + 60 gr Çikolata Milkshake
+Ferrero Milkshake
+220 ml Süt + 60 gr Ferrero Milkshake
+Vanilya-Çilek Milkshake
+220 ml Süt + 60 gr Vanilya-Çilek Milkshake
+Karamel Milkshake
+220 ml Süt + 60 gr Karamel Milkshake
+Banoffee Milkshake
+220 ml Süt + 60 gr Banoffee Milkshake
+Vanilya Milkshake
+220 ml Süt + 60 gr Vanilya Milkshake
+Lotus Milkshake
+195 ml Süt + 65 gr Lotus Topping + 45 gr Vanilya Dondurma + 35 gr Karamel Milkshake
+BİTKİ ÇAYLARI
+Ürün	Stok
+Mystic … Kış Çayı (Adaçayı/Ihlamur hariç)
+5 gr kendi adı + 1 adet Kurutulmuş Limon
+Adaçayı
+5 gr Adaçayı + 10 gr Bal
+Ihlamur
+5 gr Ihlamur + 10 gr Bal
+ATIŞTIRMALIKLAR
+Ürün	Stok
+Marcella Red Tost
+3 adet Kaşar + 2 adet Dana Jambon + 65 ml Sweet Chilli + 45 gr Turşu + 20 gr Salça
+Marcella White Tost
+3 adet Kaşar + 65 ml Sweet Chilli + 45 gr Turşu + 20 gr Salça
+Atıştırma Sepeti
+175 gr Patates + 2 adet Sosis + 2 adet Soğan Halkası + 140 gr Çıtır Tavuk
+Patates Kızartması
+365 gr Patates
+Mini Atıştırmalıklar
+yok
+MEŞRUBATLAR
+Ürün	Stok
+Cola
+1 adet Kola
+Gazoz
+1 adet Gazoz
+Sade Soda
+1 adet Sade Soda
+Karadut & Frenk Üzümlü Soda
+1 adet Karadut&Frenk Üzümlü Soda
+Elmalı Soda
+1 adet Elmalı Soda
+Churchill
+1 adet Sade Soda
+Ice Tea Şeftali
+1 adet Ice Tea Şeftali
+Ice Tea Limon
+1 adet Ice Tea Limon
+Ice Tea Mango & Karışık Meyve
+1 adet Ice Tea Mango&Karışık Meyve
+Su
+1 adet Su
+GLOBAL EKSTRALAR
+Ekstra	Stok
+ekstra shot
+8 gr Espresso Kahve
+ekstra süt
+70 ml Süt
+bal
+15 gr Bal

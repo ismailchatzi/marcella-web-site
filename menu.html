@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description" content="Marcella Coffee menüsü — kahveler, tatlılar, atıştırmalıklar ve daha fazlası.">
+
+  <title>Menü | Marcella Coffee</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body data-page="menu">
+
+
+
+  <header class="header scrolled" id="header">
+
+    <nav class="nav container">
+
+      <a href="index.html" class="nav__logo" data-i18n-aria="nav.logo">
+
+        <img src="images/logo-white.png" alt="Marcella" class="nav__logo-img" width="160" height="40">
+
+      </a>
+
+
+
+      <button class="nav__toggle" id="nav-toggle" data-i18n-aria="nav.open">
+
+        <span></span>
+
+        <span></span>
+
+        <span></span>
+
+      </button>
+
+
+
+      <ul class="nav__menu" id="nav-menu">
+
+        <li><a href="index.html" class="nav__link" data-i18n="nav.home">Ana Sayfa</a></li>
+
+        <li><a href="menu.html" class="nav__link active" data-i18n="nav.menu">Menü</a></li>
+
+        <li><a href="index.html#hakkimizda" class="nav__link" data-i18n="nav.about">Hakkımızda</a></li>
+
+        <li><a href="index.html#iletisim" class="nav__link" data-i18n="nav.contact">İletişim</a></li>
+
+      </ul>
+
+    </nav>
+
+  </header>
+
+
+
+  <main>
+
+    <section class="page-hero">
+
+      <div class="container">
+
+        <span class="section-label" data-i18n="menuPreview.label">Menü</span>
+
+        <h1 class="page-hero__title" data-i18n="menu.hero.title">Lezzetlerimiz</h1>
+
+        <p class="page-hero__subtitle" data-i18n="menu.hero.subtitle">Özenle hazırlanan kahve ve içeceklerimiz</p>
+
+      </div>
+
+    </section>
+
+
+
+    <nav class="menu-nav" id="menu-nav" aria-label="Menü kategorileri"></nav>
+
+
+
+    <section class="menu-section">
+
+      <div class="container">
+
+        <div id="allergen-legend"></div>
+
+        <div class="menu-categories" id="menu-categories">
+
+          <p class="menu-loading" data-i18n="menu.loading">Menü yükleniyor…</p>
+
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+
+  <footer class="footer">
+
+    <div class="container footer__inner">
+
+      <p class="footer__logo">Marcella<span>Coffee</span></p>
+
+      <p class="footer__copy" data-i18n="footer.rights">&copy; 2026 Marcella Coffee. Tüm hakları saklıdır.</p>
+
+      <a href="https://instagram.com/marcellacoffee" target="_blank" rel="noopener" class="footer__social" aria-label="Instagram">
+
+        Instagram
+
+      </a>
+
+    </div>
+
+  </footer>
+
+
+
+  <script src="js/i18n.js"></script>
+
+  <script src="js/menu-data.js"></script>
+
+  <script src="js/allergens.js"></script>
+
+  <script src="js/calories.js"></script>
+
+  <script src="js/main.js"></script>
+
+  <script src="js/menu.js"></script>
+
+</body>
+
+</html>
+
+

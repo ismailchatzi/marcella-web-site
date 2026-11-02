@@ -1,0 +1,678 @@
+{
+  "ui": {
+    "meta": {
+      "index": {
+        "description": "Marcella Coffee — a carefully crafted coffee experience in Nilüfer, Bursa.",
+        "title": "Marcella Coffee | Bursa"
+      },
+      "menu": {
+        "description": "Marcella Coffee menu — coffees, desserts, snacks and more.",
+        "title": "Menu | Marcella Coffee"
+      }
+    },
+    "nav": {
+      "logo": "Marcella Coffee",
+      "open": "Open menu",
+      "home": "Home",
+      "menu": "Menu",
+      "about": "About",
+      "contact": "Contact",
+      "categories": "Menu categories"
+    },
+    "hero": {
+      "tagline": "Nilüfer / Bursa",
+      "subtitle": "The city's quietest coffee spot.",
+      "ctaMenu": "View Menu",
+      "ctaVisit": "Visit Us"
+    },
+    "features": {
+      "beans": {
+        "title": "Carefully Selected Beans",
+        "text": "Every coffee is prepared with care for quality and flavor."
+      },
+      "hours": {
+        "title": "10:00 AM – 12:00 AM",
+        "text": "We're here from early morning until midnight."
+      },
+      "location": {
+        "title": "In Nilüfer",
+        "text": "A warm, welcoming space in Konak Mahallesi."
+      }
+    },
+    "about": {
+      "label": "About",
+      "title": "Coffee is a ritual for us.",
+      "p1": "Marcella Coffee in Nilüfer, Bursa sees coffee not just as a drink, but as a meeting place. In our space designed in black and cream tones, we prepare every cup with care.",
+      "p2": "Whether heading to work in the morning or meeting friends in the evening — feel at home at Marcella.",
+      "cta": "Follow on Instagram",
+      "photoSoon": "Photo coming soon"
+    },
+    "menuPreview": {
+      "label": "Menu",
+      "title": "Discover our flavors",
+      "text": "Our menu of 156 items — hot coffees, desserts, croissants, pizza and more. Scan the QR code at your table for the same menu.",
+      "cta": "View Menu"
+    },
+    "contact": {
+      "label": "Contact",
+      "title": "Visit us",
+      "addressLabel": "Address",
+      "address": "Konak Mahallesi, Seçkin Sokak No: 46A\nNilüfer / Bursa",
+      "phone": "Phone",
+      "hours": "Opening Hours",
+      "hoursValue": "Every day 10:00 AM – 12:00 AM",
+      "instagram": "Instagram",
+      "mapTitle": "Marcella Coffee location"
+    },
+    "footer": {
+      "rights": "© 2026 Marcella Coffee. All rights reserved."
+    },
+    "menu": {
+      "hero": {
+        "title": "Our Flavors",
+        "subtitle": "Carefully prepared coffees and beverages"
+      },
+      "loading": "Loading menu…",
+      "error": "Menu could not be loaded. Please refresh the page.",
+      "priceAsk": "Ask for price",
+      "photoZoom": "Enlarge photo",
+      "lightbox": {
+        "close": "Close",
+        "hint": "Tap outside to close"
+      }
+    },
+    "allergens": {
+      "lactose": "Milk / Lactose",
+      "gluten": "Gluten",
+      "nuts": "Nuts",
+      "egg": "Egg",
+      "info": "Allergen information",
+      "legend": "Allergen symbol legend",
+      "note": "Calorie values are estimates. Please ask staff for details."
+    },
+    "calories": {
+      "estimate": "Estimated calories"
+    }
+  },
+  "categories": {
+    "marcella-ozel": "MARCELLA SPECIAL",
+    "pizzalar": "PIZZAS",
+    "tatlilar": "DESSERTS",
+    "kruvasanlar": "CROISSANTS",
+    "sicak-kahveler": "HOT COFFEES",
+    "soguk-kahveler": "COLD COFFEES",
+    "3-nesil-demleme-kahveler": "3RD WAVE COFFEES",
+    "sicak-icecekler": "HOT DRINKS",
+    "fresh-bar--frozen": "FRESH BAR & FROZEN",
+    "milkshake": "MILKSHAKES",
+    "bitki-caylari": "HERBAL TEAS",
+    "atistirmaliklar": "SNACKS",
+    "mesrubatlar": "SOFT DRINKS",
+    "ekstralar": "EXTRAS"
+  },
+  "items": {
+    "Original Greek Frappe": {
+      "desc": "The famous Greek frappe made with specialty coffee from Greece. Coffee, milk, vanilla ice cream, ice."
+    },
+    "Freddo Cappuccino": {
+      "desc": "Frothed double-shot espresso, cold milk foam, ice."
+    },
+    "Freddo Espresso": {
+      "desc": "Frothed double-shot espresso, ice."
+    },
+    "Marcella Soğuk Çikolata": {
+      "desc": "Banana ice cream with iced chocolate.",
+      "name": "Marcella Iced Chocolate"
+    },
+    "Pizza Margherita": {
+      "desc": "Two-day rested Neapolitan-style dough, house pizza sauce, buffalo mozzarella, basil and olive oil, baked in a stone oven."
+    },
+    "Pizza Manzo Dorato": {
+      "desc": "Two-day rested Neapolitan-style dough, house pizza sauce, buffalo mozzarella, beef roast beef & sirloin with a touch of honey mustard and olive oil, baked in a stone oven."
+    },
+    "Çilekli Magnolia": {
+      "desc": "Handmade, fresh daily",
+      "name": "Strawberry Magnolia"
+    },
+    "Muzlu Magnolia": {
+      "desc": "Handmade, fresh daily",
+      "name": "Banana Magnolia"
+    },
+    "Cedric Grolet Limon": {
+      "desc": "Lemon cream, fresh lemon, almond pastry and cream. Handmade, fresh daily.",
+      "name": "Cedric Grolet Lemon"
+    },
+    "Cedric Grolet Çilek": {
+      "desc": "Fresh strawberries and cream. Handmade, fresh daily.",
+      "name": "Cedric Grolet Strawberry"
+    },
+    "Cedric Grolet Antep Fıstığı": {
+      "desc": "Pistachio cream and cream. Handmade, fresh daily.",
+      "name": "Cedric Grolet Pistachio"
+    },
+    "Kit-Kat Pasta": {
+      "desc": null,
+      "name": "Kit-Kat Cake"
+    },
+    "Cookie Pie": {
+      "desc": null
+    },
+    "Lotus Magnolia": {
+      "desc": "Lotus cream and Lotus biscuit Magnolia. Handmade, fresh daily."
+    },
+    "Beyaz Çikolatalı Brownie": {
+      "desc": "Ice cream option available for +40 TL. Handmade, fresh daily (served warm).",
+      "name": "White Chocolate Brownie"
+    },
+    "San Sebastian Cheesecake": {
+      "desc": "Served with chocolate for +30 TL. Handmade, fresh daily."
+    },
+    "Çikolatalı Cup": {
+      "desc": "Ground white chocolate, chocolate pudding and chocolate cake. Handmade, fresh daily.",
+      "name": "Chocolate Cup"
+    },
+    "Latte Cup": {
+      "desc": "Coffee cream, white cake, hazelnut pieces, white & milk chocolate."
+    },
+    "Spoonful": {
+      "desc": "Chocolate cake with cream and chocolate sauce. Handmade, fresh daily."
+    },
+    "Tiramisu": {
+      "desc": "Handmade, fresh daily"
+    },
+    "Pastacı Kremalı Cream Puff": {
+      "desc": "Topped with milk & white chocolate sauce. Handmade, fresh daily.",
+      "name": "Pastry Cream Cream Puff"
+    },
+    "Çikolatalı Kruvasan": {
+      "desc": "Buttery croissant filled with Nutella, strawberry and banana, topped with chocolate sauce and hazelnut pieces.",
+      "name": "Chocolate Croissant"
+    },
+    "Lotus Kruvasan": {
+      "desc": "Buttery croissant filled with Lotus cream, topped with Lotus topping, sliced almonds and Lotus biscuit crumbs.",
+      "name": "Lotus Croissant"
+    },
+    "Antep Fıstıklı Kruvasan": {
+      "desc": "Buttery croissant filled with pistachio cream and special goat milk ice cream, topped with pistachio sauce and crumbs.",
+      "name": "Pistachio Croissant"
+    },
+    "Filtre Kahve": {
+      "desc": null,
+      "name": "Filter Coffee"
+    },
+    "Sütlü Filtre Kahve": {
+      "desc": null,
+      "name": "Milk Filter Coffee"
+    },
+    "Red Eye Coffee": {
+      "desc": "Filter coffee with a shot of espresso."
+    },
+    "Black Eye Coffee": {
+      "desc": "Filter coffee with a double shot of espresso."
+    },
+    "Türk Kahvesi": {
+      "desc": "Komotini coffee from Greece.",
+      "name": "Turkish Coffee"
+    },
+    "Double Türk Kahvesi": {
+      "desc": "Komotini coffee from Greece.",
+      "name": "Double Turkish Coffee"
+    },
+    "Damla Sakızlı Türk Kahvesi": {
+      "desc": "Made with authentic mastic from Greece.",
+      "name": "Mastic Turkish Coffee"
+    },
+    "Double Damla S. Türk Kahvesi": {
+      "desc": "Made with authentic mastic from Greece.",
+      "name": "Double Mastic Turkish Coffee"
+    },
+    "Espresso": {
+      "desc": null
+    },
+    "Double Espresso": {
+      "desc": "Double shot espresso."
+    },
+    "Espresso Macchiato": {
+      "desc": "Espresso, milk foam."
+    },
+    "Americano": {
+      "desc": "Double shot espresso, water."
+    },
+    "Latte": {
+      "desc": "Espresso, milk."
+    },
+    "Cappuccino": {
+      "desc": "Espresso, milk, milk foam."
+    },
+    "Flat White": {
+      "desc": "Double shot espresso, milk."
+    },
+    "Cortado": {
+      "desc": "Double shot espresso, milk."
+    },
+    "Mocha": {
+      "desc": "Espresso, chocolate sauce, milk."
+    },
+    "White Mocha": {
+      "desc": "Espresso, white chocolate sauce, milk."
+    },
+    "Vanilya Latte": {
+      "desc": "Espresso, vanilla flavor, milk.",
+      "name": "Vanilla Latte"
+    },
+    "Karamel Latte": {
+      "desc": "Espresso, caramel flavor, milk.",
+      "name": "Caramel Latte"
+    },
+    "Salted Caramel Mocha": {
+      "desc": "Espresso, salted caramel flavor, milk (not a salty coffee :)"
+    },
+    "Fındık Latte": {
+      "desc": "Espresso, hazelnut flavor, milk.",
+      "name": "Hazelnut Latte"
+    },
+    "Toffeenut Latte": {
+      "desc": "Espresso, toffee nut flavor, milk."
+    },
+    "Coconut Latte": {
+      "desc": "Espresso, coconut flavor, milk."
+    },
+    "Pumpkin Spice Latte": {
+      "desc": "Espresso, spiced pumpkin flavor, milk."
+    },
+    "Honeymoon Latte": {
+      "desc": "Espresso, honey, cinnamon, milk."
+    },
+    "Nutella Latte": {
+      "desc": "Espresso, Nutella, milk."
+    },
+    "Irish Cream Latte": {
+      "desc": "Irish cream flavored."
+    },
+    "Lotus Latte": {
+      "desc": "Espresso, Lotus topping sauce, milk."
+    },
+    "Pistachio Mocha": {
+      "desc": "Pistachio paste, milk, espresso."
+    },
+    "Spanish Latte": {
+      "desc": "Natural condensed milk, espresso, milk."
+    },
+    "Ice Americano": {
+      "desc": "Double shot espresso, ice, water."
+    },
+    "Ice Latte": {
+      "desc": "Double shot espresso, ice, milk."
+    },
+    "Ice Honeymoon Latte": {
+      "desc": "Double shot espresso, milk, ice, honey, cinnamon."
+    },
+    "Ice Vanilya Latte": {
+      "desc": "Double shot espresso, vanilla flavor, milk, ice.",
+      "name": "Iced Vanilla Latte"
+    },
+    "Ice Karamel Latte": {
+      "desc": "Double shot espresso, caramel flavor, milk, ice.",
+      "name": "Iced Caramel Latte"
+    },
+    "Ice Fındık Latte": {
+      "desc": "Double shot espresso, hazelnut flavor, milk, ice.",
+      "name": "Iced Hazelnut Latte"
+    },
+    "Ice Toffeenut Latte": {
+      "desc": "Double shot espresso, toffee nut flavor, milk, ice."
+    },
+    "Ice Mocha": {
+      "desc": "Double shot espresso, chocolate sauce, milk, ice."
+    },
+    "Ice White Mocha": {
+      "desc": "Double shot espresso, white chocolate sauce, milk, ice."
+    },
+    "Ice Nutella Latte": {
+      "desc": "Double shot espresso, Nutella, milk, ice."
+    },
+    "Ice Lotus Latte": {
+      "desc": "Double shot espresso, Lotus Biscoff topping sauce, milk, ice."
+    },
+    "Ice Pistachio Mocha": {
+      "desc": "Double shot espresso, pistachio paste, milk, ice."
+    },
+    "Ice Salted Caramel Mocha": {
+      "desc": "Double shot espresso, salted caramel flavor, milk, ice (not a salty coffee :)"
+    },
+    "Ice Coconut Latte": {
+      "desc": "Double shot espresso, coconut flavor, milk, ice."
+    },
+    "Ice Pumpkin Spice Latte": {
+      "desc": "Double shot espresso, milk, ice, spiced pumpkin flavor."
+    },
+    "Ice Irish Cream Latte": {
+      "desc": "Double shot espresso, milk, ice, Irish cream flavor."
+    },
+    "Ice Spanish Latte": {
+      "desc": "Double shot espresso, milk, ice, condensed milk."
+    },
+    "Ice Filtre Kahve": {
+      "desc": null,
+      "name": "Iced Filter Coffee"
+    },
+    "Ice Sütlü Filtre Kahve": {
+      "desc": null,
+      "name": "Iced Milk Filter Coffee"
+    },
+    "Cold Brew": {
+      "desc": null
+    },
+    "Affogato": {
+      "desc": "Espresso, vanilla ice cream."
+    },
+    "V60": {
+      "desc": "Beans: Brazil, Peru, Colombia, Ethiopia."
+    },
+    "V60 Double": {
+      "desc": "For 2. Beans: Brazil, Peru, Colombia, Ethiopia."
+    },
+    "Chemex": {
+      "desc": "Beans: Brazil, Peru, Colombia, Ethiopia."
+    },
+    "Chemex Double": {
+      "desc": "For 2. Beans: Brazil, Peru, Colombia, Ethiopia."
+    },
+    "Sahlep": {
+      "desc": null
+    },
+    "Damla Sakızlı Sahlep": {
+      "desc": null,
+      "name": "Mastic Salep"
+    },
+    "Sıcak Çikolata": {
+      "desc": "Made with Cadbury chocolate.",
+      "name": "Hot Chocolate"
+    },
+    "Chai Tea Latte": {
+      "desc": "Da Vinci Chai Tea flavor with milk."
+    },
+    "Sıcak Ballı Süt": {
+      "desc": null,
+      "name": "Hot Honey Milk"
+    },
+    "Fincan Çay": {
+      "desc": null,
+      "name": "Cup of Tea"
+    },
+    "Çay": {
+      "desc": null,
+      "name": "Tea"
+    },
+    "Bal Badem Sahlep": {
+      "desc": null,
+      "name": "Honey Almond Salep"
+    },
+    "Taze Sıkma Portakal Suyu": {
+      "desc": "Approx. 300 ml.",
+      "name": "Freshly Squeezed Orange Juice"
+    },
+    "Limonata": {
+      "desc": "Available in summer months only.",
+      "name": "Lemonade"
+    },
+    "Cool Lime": {
+      "desc": "Refreshing drink with key lime flavor."
+    },
+    "Cool Berry": {
+      "desc": null
+    },
+    "Watermelon Mojito": {
+      "desc": "Watermelon and mint syrup, Sprite and ice."
+    },
+    "Kırmızı Kutu": {
+      "desc": "Lemon, key lime and red berry boxed drink.",
+      "name": "Red Box"
+    },
+    "Sarı Kutu": {
+      "desc": "Lemon, key lime and mango boxed drink.",
+      "name": "Yellow Box"
+    },
+    "Yeşil Kutu": {
+      "desc": "Lemon, key lime and mint boxed drink.",
+      "name": "Green Box"
+    },
+    "Pink Acid": {
+      "desc": "Dragon fruit, orange, lemon, passion fruit and ice."
+    },
+    "Ice Chai Tea Latte": {
+      "desc": "Da Vinci Chai Tea flavor, milk, ice."
+    },
+    "Uranos": {
+      "desc": "Blue Curaçao (orange) flavor, green apple soda."
+    },
+    "Kuzu Kulağı": {
+      "desc": "Green apple, sorrel and mint.",
+      "name": "Sorrel"
+    },
+    "Mango Sol": {
+      "desc": "Mango, coconut and cinnamon."
+    },
+    "Böğürtlen Frozen": {
+      "desc": null,
+      "name": "Blackberry Frozen"
+    },
+    "Yeşil Elma Frozen": {
+      "desc": null,
+      "name": "Green Apple Frozen"
+    },
+    "Ananas Frozen": {
+      "desc": null,
+      "name": "Pineapple Frozen"
+    },
+    "Mango Frozen": {
+      "desc": null
+    },
+    "Çilek Frozen": {
+      "desc": null,
+      "name": "Strawberry Frozen"
+    },
+    "Kavun Frozen": {
+      "desc": null,
+      "name": "Melon Frozen"
+    },
+    "Muz Frozen": {
+      "desc": null,
+      "name": "Banana Frozen"
+    },
+    "Orman Meyveli Frozen": {
+      "desc": null,
+      "name": "Forest Berry Frozen"
+    },
+    "Çikolatalı Milkshake": {
+      "desc": null,
+      "name": "Chocolate Milkshake"
+    },
+    "Ferrero Milkshake": {
+      "desc": "Hazelnut chocolate Ferrero flavored milkshake."
+    },
+    "Vanilya-Çilek Milkshake": {
+      "desc": null,
+      "name": "Vanilla-Strawberry Milkshake"
+    },
+    "Karamel Milkshake": {
+      "desc": null,
+      "name": "Caramel Milkshake"
+    },
+    "Banoffee Milkshake": {
+      "desc": "A blend of caramel, banana and chocolate flavors."
+    },
+    "Vanilya Milkshake": {
+      "desc": null,
+      "name": "Vanilla Milkshake"
+    },
+    "Lotus Milkshake": {
+      "desc": "A special blend with Lotus biscuit cream that instantly satisfies your sweet craving."
+    },
+    "Mystic": {
+      "desc": "Turmeric mango green tea. Steeped for 10 minutes and served ready to drink."
+    },
+    "Relax": {
+      "desc": "Lavender rooibos tea. Steeped for 10 minutes and served ready to drink."
+    },
+    "Happy": {
+      "desc": "Strawberry mint tea. Steeped for 10 minutes and served ready to drink."
+    },
+    "Boost": {
+      "desc": "Hibiscus fruit tea. Steeped for 10 minutes and served ready to drink."
+    },
+    "Indulge": {
+      "desc": "Organic vanilla rooibos tea. Steeped for 10 minutes and served ready to drink."
+    },
+    "Escape": {
+      "desc": "Tropical oolong tea. Steeped for 10 minutes and served ready to drink."
+    },
+    "Adaçayı": {
+      "desc": "Served with lemon and honey. Steeped for 10 minutes and served ready to drink.",
+      "name": "Sage Tea"
+    },
+    "Ihlamur": {
+      "desc": "Served with honey and lemon. Steeped for 10 minutes and served ready to drink.",
+      "name": "Linden Tea"
+    },
+    "Yeşil Çay": {
+      "desc": "Steeped for 10 minutes and served ready to drink.",
+      "name": "Green Tea"
+    },
+    "Velvet Berry": {
+      "desc": "Apple, hibiscus, rosehip, raspberry and raspberry leaves. Steeped for 10 minutes and served ready to drink."
+    },
+    "Green Boost": {
+      "desc": "Green tea, lime & ginger. Steeped for 10 minutes and served ready to drink."
+    },
+    "Nordic": {
+      "desc": "Green tea, apple, orange peel, clove, almond, rose petals and cinnamon. Steeped for 10 minutes and served ready to drink."
+    },
+    "Bliss": {
+      "desc": "Apple, hibiscus, rosehip, orange peel, papaya, pineapple, strawberry, raspberry, raisin, rose petals and natural flavor. Steeped for 10 minutes and served ready to drink."
+    },
+    "Spark": {
+      "desc": "Fennel, licorice root, cinnamon, ginger, clove, black pepper, cardamom, juniper and orange peel. Steeped for 10 minutes and served ready to drink."
+    },
+    "Amour": {
+      "desc": "Apple, hibiscus, rosehip, raspberry, rose petals, cherry, sugar-coated heart candies and flavor. Steeped for 10 minutes and served ready to drink."
+    },
+    "Yogi Spice": {
+      "desc": "Cinnamon, clove, ginger, cardamom. Steeped for 10 minutes and served ready to drink."
+    },
+    "Chocolate Banana": {
+      "desc": "Chocolate and banana rooibos tea. Steeped for 10 minutes and served ready to drink."
+    },
+    "Herb Power": {
+      "desc": "Coltsfoot, elderberry, marshmallow root, great mullein, licorice root and eucalyptus. Steeped for 10 minutes and served ready to drink."
+    },
+    "Olympus Power": {
+      "desc": "Lemongrass, mountain tea, calendula, chamomile, orange peel, natural flavor. Steeped for 10 minutes and served ready to drink."
+    },
+    "Fit Blend": {
+      "desc": "Lemon verbena, green tea, hibiscus, birch leaf, senna, wormwood. Steeped for 10 minutes and served ready to drink."
+    },
+    "Strawberry Spice": {
+      "desc": "Strawberry and pink pepper rooibos tea. Steeped for 10 minutes and served ready to drink."
+    },
+    "Calm Breeze": {
+      "desc": "Fennel, chamomile, apple, cinnamon, ginger, nettle, clove, orange peel. Steeped for 10 minutes and served ready to drink."
+    },
+    "Hot Bitter": {
+      "desc": "Black tea with chocolate pieces and hot pepper. Steeped for 10 minutes and served ready to drink."
+    },
+    "Chocorange": {
+      "desc": "Chocolate and orange rooibos tea. Steeped for 10 minutes and served ready to drink."
+    },
+    "Winter's Gone": {
+      "desc": "Linden, dried ginger, dried lemon, cinnamon, clove and mint. Steeped for 10 minutes and served ready to drink."
+    },
+    "Forest Brew": {
+      "desc": "Orange, apple, clove, pink pepper, cinnamon, cardamom, coriander seed. Steeped for 10 minutes and served ready to drink."
+    },
+    "Pai Mu Tan": {
+      "desc": "Chinese white tea. Steeped for 10 minutes and served ready to drink."
+    },
+    "Kış Çayı": {
+      "desc": "Caramelized apple & chicory root. Steeped for 10 minutes and served ready to drink.",
+      "name": "Winter Tea"
+    },
+    "Marcella Red Tost": {
+      "desc": "Kashar cheese, beef ham, tomato paste. (Served with sweet chili sauce and gherkin pickles.)",
+      "name": "Marcella Red Toast"
+    },
+    "Marcella White Tost": {
+      "desc": "Kashar cheese, tomato paste. (Served with sweet chili sauce and gherkin pickles.)",
+      "name": "Marcella White Toast"
+    },
+    "Atıştırma Sepeti": {
+      "desc": "Seasoned french fries, sausage, crispy chicken pieces, onion rings.",
+      "name": "Snack Basket"
+    },
+    "Patates Kızartması": {
+      "desc": null,
+      "name": "French Fries"
+    },
+    "Mini Atıştırmalıklar": {
+      "desc": "Please ask us for stock and pricing. Cinnamon roll, cherry danish, apple cinnamon danish, mini chocolate croissant, mini butter croissant.",
+      "name": "Mini Snacks"
+    },
+    "Cola": {
+      "desc": null
+    },
+    "Gazoz": {
+      "desc": null,
+      "name": "Lemon Soda"
+    },
+    "Sade Soda": {
+      "desc": null,
+      "name": "Plain Sparkling Water"
+    },
+    "Karadut & Frenk Üzümlü Soda": {
+      "desc": null,
+      "name": "Blackberry & Blackcurrant Soda"
+    },
+    "Elmalı Soda": {
+      "desc": null,
+      "name": "Apple Soda"
+    },
+    "Churchill": {
+      "desc": null
+    },
+    "Ice Tea Şeftali": {
+      "desc": null,
+      "name": "Peach Iced Tea"
+    },
+    "Ice Tea Limon": {
+      "desc": null,
+      "name": "Lemon Iced Tea"
+    },
+    "Ice Tea Mango & Karışık Meyve": {
+      "desc": null,
+      "name": "Mango & Mixed Fruit Iced Tea"
+    },
+    "Su": {
+      "desc": "0.5 L",
+      "name": "Water"
+    },
+    "Extra Espresso": {
+      "desc": null
+    },
+    "Extra Şurup": {
+      "desc": null,
+      "name": "Extra Syrup"
+    },
+    "Extra Süt": {
+      "desc": null,
+      "name": "Extra Milk"
+    },
+    "Extra Bal": {
+      "desc": null,
+      "name": "Extra Honey"
+    },
+    "Doğum Günü Pasta Servisi": {
+      "desc": "For cakes brought from outside.",
+      "name": "Birthday Cake Service"
+    }
+  }
+}
